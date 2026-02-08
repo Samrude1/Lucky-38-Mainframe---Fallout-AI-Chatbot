@@ -2,6 +2,12 @@
 
 An immersive, retro-futuristic AI chatbot experience themed after Fallout: New Vegas's Mr. House and the Lucky 38 casino. Built with React, TypeScript, and Google's Gemini AI.
 
+## 📸 Screenshot
+
+![Lucky 38 Mainframe Interface](./public/Näyttökuva%202026-02-08%20105459.png)
+
+*Experience authentic Pip-Boy aesthetics with CRT effects, dynamic AI responses, and live system metrics*
+
 ## ✨ Features
 
 ### 🎭 **Mr. House Persona**
@@ -44,7 +50,7 @@ An immersive, retro-futuristic AI chatbot experience themed after Fallout: New V
 1. **Clone the repository**
    ```bash
    git clone <repository-url>
-   cd matrix-ai-chatbot
+   cd fallout-ai-chatbot
    ```
 
 2. **Install dependencies**
@@ -78,7 +84,7 @@ An immersive, retro-futuristic AI chatbot experience themed after Fallout: New V
 ## 📁 Project Structure
 
 ```
-matrix-ai-chatbot/
+fallout-ai-chatbot/
 ├── components/
 │   ├── ChatWindow.tsx      # Main chat interface & state management
 │   ├── ChatMessage.tsx     # Individual message bubbles
