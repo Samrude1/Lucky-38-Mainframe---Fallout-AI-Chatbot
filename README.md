@@ -1,4 +1,4 @@
-# 🎰 Lucky 38 Mainframe - Matrix AI Chatbot
+# 🎰 Lucky 38 Mainframe AI Chatbot
 
 An immersive, retro-futuristic AI chatbot experience themed after Fallout: New Vegas's Mr. House and the Lucky 38 casino. Built with React, TypeScript, and Google's Gemini AI.
 
